@@ -18,4 +18,4 @@ Observations:
 Are there limitations on the number of requests?
 We currently rate limit requests to 40 requests every 10 seconds. You can inspect the status of your limits by looking at the X-RateLimit response headers
 =============================================================
-- Finally you should see results similar to Results.PNG, but there might be a minor difference because Movies database might be altered.
+- Finally you should see results similar to Results_chrome.PNG, but there might be a minor difference because Movies database might be altered.
